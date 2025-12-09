@@ -1,4 +1,4 @@
-### smartcard-reader
+### TapMate - smartcard-reader
 
 smartcard-reader turns your Android device (running Kitkat or later) into a
 payment terminal or similar smartcard reader. It uses NFC to interact with a
@@ -123,14 +123,7 @@ new reader mode is a key enabler of smartcard-reader.
 <img src="/docs/tn_screen_emv_read.png" width="400" border="0"><img src="/docs/tn_screen_settings.png" width="400" border="0">
 </div>
 
-#### Thanks!
 
-Special thanks to the authors of the following libraries and projects from whence
-this app benefits:
-
-- [fab][1] for the material style floating action menu widget
-- [material-dialogs][2] for backwards compatible material themed dialogs
-- [gson][3] for serialization and deserialization to/from JSON
 - [javaemvreader][4] as basis for payment classes used in emv read mode
 
 [1]: https://github.com/Clans/FloatingActionButton
